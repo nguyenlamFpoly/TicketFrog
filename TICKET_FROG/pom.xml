@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.java6</groupId>
-	<artifactId>PS19246_NguyenHoangPhuc_ASM</artifactId>
+	<artifactId>Nhom20_TicketFrog</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
 	<name>PS19246_NguyenHoangPhuc_ASM</name>
